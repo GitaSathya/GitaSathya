@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4f46e5,100:06b6d4&text=Gita%20Sathyamoorthy&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Uppsala%20University&descAlignY=58&descSize=18" width="100%" alt="Gita Sathyamoorthy banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:4f46e5,100:06b6d4&text=Gita%20Shri%20Sathyamoorthy&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Uppsala%20University&descAlignY=58&descSize=18" width="100%" alt="Gita Sathyamoorthy banner"/>
 
 <p align="center">
   <a href="https://gitasathya.github.io/">
