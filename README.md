@@ -38,5 +38,5 @@ statistical modelling and machine learning, and in getting models to behave on m
 </table>
 
 <h3>Connect</h3>
-<a href="https://linkedin.com/in/YOUR-HANDLE">LinkedIn</a> ·
-<a href="mailto:YOUR-EMAIL">Email</a>
+<a href="https://linkedin.com/in/gitasathya2407/">LinkedIn</a> ·
+<a href="mailto:gitasathya2407@gmail.com">Email</a>
